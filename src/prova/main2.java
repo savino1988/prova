@@ -1,11 +1,9 @@
 package prova;
 
-public class main {
+public class main2 {
 
 	public static void main(String[] args) {
-
-		System.out.println("funziona branch 1");
-
+		System.out.println("funziona 2");
 	}
 
 }
